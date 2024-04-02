@@ -8,7 +8,9 @@
     **1.** Create a _[customer performance report](https://github.com/chinna-DS/Excel-Sales-Analytics/blob/main/Customer%20performance%20Report.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/chinna-DS/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
-    **3.** Create various sales reports 
+
+    **3.** Create various reports like new products-2021 , Top and Bottom 5 products in Quantity, growth percentage (2021 vs 2020) of Net Sales in Division level,
+           Top 5 countries by Net Sales in 2021 ect..,
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
